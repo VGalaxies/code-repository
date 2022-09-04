@@ -97,7 +97,7 @@ int main()
 		count++;
 		char tmp = getchar();
 		while (getchar() != '\n')
-			; // Ö»¶ÁÃ¿ĞĞÊ××Ö·û
+			; // åªè¯»æ¯è¡Œé¦–å­—ç¬¦
 		bool final = false;
 		int mem_x = x;
 		int mem_y = y;
